@@ -2,19 +2,26 @@ body {
 
 }
 
+h1 {
+  text-align: center;
+  color: #FFC20E;
+  font-family: 'Orbitron', sans-serif;
+}
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
     padding: 4px;
     text-align: center;
+    max-width: 100%;
 }
 
 th {
   font-family: 'Dosis', sans-serif;
+  background-color: #2A433A;
+  color: #FFFFFF;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+tr.even {
+  background-color: #FFC20E;
 }
