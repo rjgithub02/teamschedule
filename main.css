@@ -2,10 +2,11 @@ body {
 
 }
 
-h1 {
+caption {
   text-align: center;
-  color: #FFC20E;
   font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  padding: 4px;
 }
 
 table, th, td {
