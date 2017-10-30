@@ -27,3 +27,10 @@ th {
 tr.even {
   background-color: #FFC20E;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px;
+}
